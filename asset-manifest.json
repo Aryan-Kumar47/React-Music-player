@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Music-player/static/css/main.2e81c5fc.css",
+    "main.js": "/React-Music-player/static/js/main.7f74b4ae.js",
+    "static/media/DesiKalakaar.mp3": "/React-Music-player/static/media/DesiKalakaar.9f475621224ade94f77a.mp3",
+    "static/media/I Am Your DJ Tonight.mp3": "/React-Music-player/static/media/I Am Your DJ Tonight.51d4b502717982e9ca51.mp3",
+    "static/media/One Thousand Miles.mp3": "/React-Music-player/static/media/One Thousand Miles.22526149a5f0a4dafc46.mp3",
+    "static/media/Love Dose.mp3": "/React-Music-player/static/media/Love Dose.adcc305aba22da7d4a33.mp3",
+    "static/media/Daftar Ki Girl.mp3": "/React-Music-player/static/media/Daftar Ki Girl.93f31e10fe95e765d3ae.mp3",
+    "static/media/Chal Mere Ghar.mp3": "/React-Music-player/static/media/Chal Mere Ghar.37cd242284db562beb91.mp3",
+    "static/media/Tanning.mp3": "/React-Music-player/static/media/Tanning.38df9e318e8acdd3c6b3.mp3",
+    "static/media/Yo Yo Honey Singh – Desi Kalakaar Album All Song.png": "/React-Music-player/static/media/Yo Yo Honey Singh – Desi Kalakaar Album All Song.a69d8d7be3fd026cd447.png",
+    "index.html": "/React-Music-player/index.html",
+    "main.2e81c5fc.css.map": "/React-Music-player/static/css/main.2e81c5fc.css.map",
+    "main.7f74b4ae.js.map": "/React-Music-player/static/js/main.7f74b4ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e81c5fc.css",
+    "static/js/main.7f74b4ae.js"
+  ]
+}
